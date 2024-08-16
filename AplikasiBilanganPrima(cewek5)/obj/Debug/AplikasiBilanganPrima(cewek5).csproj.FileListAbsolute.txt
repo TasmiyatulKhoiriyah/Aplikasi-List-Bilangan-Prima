@@ -1,7 +1,0 @@
-C:\Users\akhda\source\repos\AplikasiBilanganPrima(cewek5)\AplikasiBilanganPrima(cewek5)\bin\Debug\AplikasiBilanganPrima(cewek5).exe.config
-C:\Users\akhda\source\repos\AplikasiBilanganPrima(cewek5)\AplikasiBilanganPrima(cewek5)\bin\Debug\AplikasiBilanganPrima(cewek5).exe
-C:\Users\akhda\source\repos\AplikasiBilanganPrima(cewek5)\AplikasiBilanganPrima(cewek5)\bin\Debug\AplikasiBilanganPrima(cewek5).pdb
-C:\Users\akhda\source\repos\AplikasiBilanganPrima(cewek5)\AplikasiBilanganPrima(cewek5)\obj\Debug\AplikasiBilanganPrima(cewek5).csproj.AssemblyReference.cache
-C:\Users\akhda\source\repos\AplikasiBilanganPrima(cewek5)\AplikasiBilanganPrima(cewek5)\obj\Debug\AplikasiBilanganPrima(cewek5).csproj.CoreCompileInputs.cache
-C:\Users\akhda\source\repos\AplikasiBilanganPrima(cewek5)\AplikasiBilanganPrima(cewek5)\obj\Debug\AplikasiBilanganPrima(cewek5).exe
-C:\Users\akhda\source\repos\AplikasiBilanganPrima(cewek5)\AplikasiBilanganPrima(cewek5)\obj\Debug\AplikasiBilanganPrima(cewek5).pdb
